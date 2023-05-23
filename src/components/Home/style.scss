@@ -1,0 +1,28 @@
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.home_info{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.home_info-departament{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+
+.home_info-date-time{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row; 
+}
